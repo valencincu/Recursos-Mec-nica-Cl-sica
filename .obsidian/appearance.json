@@ -1,0 +1,14 @@
+{
+  "cssTheme": "Minimal",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "preview",
+    "wide-tables",
+    "center-images",
+    "headings"
+  ],
+  "theme": "obsidian",
+  "interfaceFontFamily": "Ubuntu",
+  "textFontFamily": "Ubuntu",
+  "accentColor": "#4faeb0"
+}

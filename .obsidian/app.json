@@ -1,0 +1,9 @@
+{
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": false,
+  "defaultViewMode": "preview",
+  "strictLineBreaks": true,
+  "attachmentFolderPath": "Figuras",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
+}

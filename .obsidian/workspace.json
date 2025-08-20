@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "1809d8da71841be3",
+    "type": "split",
+    "children": [
+      {
+        "id": "83fe554ebce106ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ffbfb63c8ca08f0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Guías/3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3"
+            }
+          },
+          {
+            "id": "9bc4d3af1cc48e9d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Libros/[MC] Minotti - Apuntes de mecánica clásica.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "[MC] Minotti - Apuntes de mecánica clásica"
+            }
+          },
+          {
+            "id": "05defea676c6d7f0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Libros/[MC] Goldstein - Classical Mechanics.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "[MC] Goldstein - Classical Mechanics"
+            }
+          },
+          {
+            "id": "aeda9117cd47d502",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "NRL_FORMULARY_19.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "NRL_FORMULARY_19"
+            }
+          },
+          {
+            "id": "6754bea1940e4b87",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Libros/[MC] Ferraro - Notas para un Curso de Mecánica Clásica.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "[MC] Ferraro - Notas para un Curso de Mecánica Clásica"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3bbc338b5b6aba94",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4576ecb051a8df5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc1a22b7ca9b2c45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6219e94ee29c187e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#diseño-3d-de-los-toroides",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "12b654dfc1692d6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "right": {
+    "id": "222d43e4bfca63bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6d458277c107ce5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f98c88c73451320",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Entradas/2024-04-08.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ae3aa2835d31f11c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Entradas/2024-04-08.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-04-08"
+            }
+          },
+          {
+            "id": "4ea12727659b6f04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "17501d8a17de0bac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Entradas/2024-04-08.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-04-08"
+            }
+          },
+          {
+            "id": "6faf7cae5aa9eb78",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6754bea1940e4b87",
+  "lastOpenFiles": [
+    "Libros/[MC] Goldstein - Classical Mechanics.pdf",
+    "Guías/3.pdf",
+    "Libros/[MC] Ferraro - Notas para un Curso de Mecánica Clásica.pdf",
+    "Libros/[MC] Minotti - Apuntes de mecánica clásica.pdf",
+    "NRL_FORMULARY_19.pdf",
+    "Guías/2.pdf",
+    "Guías/anderson72more_is_different.pdf",
+    "Guías/1.pdf",
+    "Guías/0204019v1.pdf",
+    "Guías/Unconfirmed 935220.crdownload",
+    "Guías/7.pdf",
+    "Entradas/Capítulo 1 - Mecánica de Newton.md",
+    "Figuras/Pasted image 20250603221028.png",
+    "Entradas/24-05-07.md",
+    "Entradas/24-04-30.md",
+    "Figuras/05-07/05-07.md",
+    "Figuras/05-07/05-07 montaje.pdf-1.jpg",
+    "Entradas/24-03-18 a 24-04-24.md",
+    "Entradas/24-04-26.md",
+    "Figuras/Pasted image 20250301122923.png",
+    "example.pdf-22.jpg",
+    "example.pdf-21.jpg",
+    "example.pdf-20.jpg",
+    "example.pdf-19.jpg",
+    "example.pdf-18.jpg",
+    "example.pdf-17.jpg",
+    "example.pdf-16.jpg",
+    "Entradas/00-Antecedentes teóricos.md",
+    "yaml.md",
+    "image.md",
+    "Entradas/2024-04-08.md",
+    "Entradas/2024-04-09.md",
+    "Entradas/2024-04-10.md",
+    "compiled.md",
+    "test.md",
+    "example.md"
+  ]
+}

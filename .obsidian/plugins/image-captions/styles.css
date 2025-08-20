@@ -1,0 +1,16 @@
+.image-captions-figure {
+    margin-inline: auto !important;
+    padding: 5px;
+    display: table; /* To allow for correct caption text wrapping */
+    width: 100%;
+    font-size: 0.85em;
+    font-style: italic;
+}
+
+.image-captions-caption {
+    margin-inline: auto !important;
+    text-align: center;
+    display: table-caption; /* To allow for correct caption text wrapping */
+    caption-side: bottom;
+    width: 80%;
+}

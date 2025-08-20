@@ -1,0 +1,74 @@
+{
+  "keywords": [
+    {
+      "keyword": "#fig:",
+      "color": "#ffba49",
+      "backgroundColor": "#ffffff",
+      "fontModifiers": [
+        "bold"
+      ],
+      "showColor": true,
+      "showBackgroundColor": false
+    },
+    {
+      "keyword": "#tbl:",
+      "color": "#20a39e",
+      "backgroundColor": "#ffffff",
+      "fontModifiers": [
+        "bold"
+      ],
+      "showColor": true,
+      "showBackgroundColor": false
+    },
+    {
+      "keyword": "#eq:",
+      "color": "#ef5b5b",
+      "backgroundColor": "#ffffff",
+      "fontModifiers": [
+        "bold"
+      ],
+      "showColor": true,
+      "showBackgroundColor": false
+    },
+    {
+      "keyword": "@fig:",
+      "color": "#ffba49",
+      "backgroundColor": "#ffffff",
+      "fontModifiers": [
+        "bold"
+      ],
+      "showColor": true,
+      "showBackgroundColor": false
+    },
+    {
+      "keyword": "@tbl:",
+      "color": "#20a39e",
+      "backgroundColor": "#ffffff",
+      "fontModifiers": [
+        "bold"
+      ],
+      "showColor": true,
+      "showBackgroundColor": false
+    },
+    {
+      "keyword": "@eq:",
+      "color": "#ef5b5b",
+      "backgroundColor": "#ffffff",
+      "fontModifiers": [
+        "bold"
+      ],
+      "showColor": true,
+      "showBackgroundColor": false
+    },
+    {
+      "keyword": "\\eqref",
+      "color": "#ef5b5b",
+      "backgroundColor": "#ffffff",
+      "fontModifiers": [
+        "bold"
+      ],
+      "showColor": true,
+      "showBackgroundColor": false
+    }
+  ]
+}
