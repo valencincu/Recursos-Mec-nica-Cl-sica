@@ -1,6 +1,6 @@
 ---
 title: Mecánica Clásica
-author: Valentina Cincunegui Lupi
+author: 
 date: ""
 subtitle: ""
 lang: es
